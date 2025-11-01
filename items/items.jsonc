@@ -1,56 +1,75 @@
 [
   //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#items
   {
-    "name": "Toggle",
+    "name": "Red Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/toggle.png",
-    "codes": "toggle"
+    "img": "images/items/green_emerald.png",
+    "codes": "red emerald"
   },
   {
-    "name": "Progressive",
-    "type": "progressive",
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_2",
-        "inherit_codes": false
-      }
-    ]
+    "name": "Blue Chaos Emerald",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "blue emerald"
   },
   {
-    "name": "Consumable",
-    "type": "consumable",
-    "img": "images/items/consumable.png",
-    "max_quantity": 8,
-    "increment": 1,
-    "decrement": 1,
-    "initial_quantity": 1,
-    "overlay_background": "#000000",
-    "overlay_font_size": 8,
-    "codes": "consumable"
+    "name": "Yellow Chaos Emerald",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "yellow emerald"
   },
   {
-    "name": "Progressive Toggle",
-    "type": "progressive_toggle",
-    "initial_stage_idx": 0,
-    "stages": [
-      {
-        "img": "images/items/progressive.png",
-        "codes": "progressive_toggle",
-        "inherit_codes": false
-      },
-      {
-        "img": "images/items/progressive_2.png",
-        "codes": "progressive_toggle_2",
-        "inherit_codes": false
-      }
-    ]
+    "name": "Green Chaos Emerald",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "green emerald"
+  },
+  {
+    "name": "Cyan Chaos Emerald",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "cyan emerald"
+  },
+  {
+    "name": "White Chaos Emerald",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "white emerald"
+  },
+  {
+    "name": "Purple Chaos Emerald",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "purple emerald"
+  },
+  {
+    "name": "Sonic Rescued",
+    "type": "toggle",
+    "img": "images/items/amy.png",
+    "codes": "sonic"
+  },
+  {
+    "name": "Cream Rescued",
+    "type": "toggle",
+    "img": "images/items/amy.png",
+    "codes": "cream"
+  },
+  {
+    "name": "Tails Rescued",
+    "type": "toggle",
+    "img": "images/items/amy.png",
+    "codes": "tails"
+  },
+  {
+    "name": "Knuckles Rescurd",
+    "type": "toggle",
+    "img": "images/items/amy.png",
+    "codes": "knuckles"
+  },
+  {
+    "name": "Amy Rescued",
+    "type": "toggle",
+    "img": "images/items/amy.png",
+    "codes": "amy"
   }
 ]
