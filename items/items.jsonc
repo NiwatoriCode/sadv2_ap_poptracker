@@ -75,7 +75,43 @@
   {
     "name": "Leaf Forest",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "lf"
+  },
+  {
+    "name": "Hot Crater",
+    "type": "toggle",
+    "img": "images/items/emerald_green.png",
+    "codes": "hc"
+  },
+  {
+    "name": "Music Plant",
+    "type": "toggle",
+    "img": "images/items/emerald_green.png",
+    "codes": "mp"
+  },
+  {
+    "name": "Ice Paradise",
+    "type": "toggle",
+    "img": "images/items/emerald_green.png",
+    "codes": "ip"
+  },
+  {
+    "name": "Sky Canyon",
+    "type": "toggle",
+    "img": "images/items/emerald_green.png",
+    "codes": "sc"
+  },
+  {
+    "name": "Techno Base",
+    "type": "toggle",
+    "img": "images/items/emerald_green.png",
+    "codes": "tb"
+  },
+  {
+    "name": "Egg Utopia",
+    "type": "toggle",
+    "img": "images/items/emerald_green.png",
+    "codes": "eu"
   }
 ]

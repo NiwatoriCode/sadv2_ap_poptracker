@@ -71,9 +71,501 @@
         ],
         "map_locations": [
           {
-            "map": "map1",
+            "map": "Zone Select",
             "x": 26,
             "y": 106
+          }
+        ]
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "Hot Crater",
+    "access_rules": "hc",
+    "children": [
+      {
+        "name": "Act 1",
+        "sections": [
+          {
+            "name": "Sonic - Hot Crater Act 1",
+            "access_rules": "sonic",
+            "item_count": 1
+          },
+          {
+            "name": "Cream - Hot Crater Act 1",
+            "access_rules": "cream",
+            "item_count": 1
+          },
+          {
+            "name": "Tails - Hot Crater Act 1",
+            "access_rules": "tails",
+            "item_count": 1
+          },
+          {
+            "name": "Knuckles - Hot Crater Act 1",
+            "access_rules": "knuckles",
+            "item_count": 1
+          },
+          {
+            "name": "Amy - Hot Crater Act 1",
+            "access_rules": "amy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map":"Zone Select",
+            "x": 41,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "sections": [
+          {
+						"name": "Sonic - Hot Crater Act 2",
+						"access_rules": "sonic",
+						"item_count": 1
+					}, 
+          {
+						"name": "Cream - Hot Crater Act 2",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+          {
+						"name": "Tails - Hot Crater Act 2",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+          {
+						"name": "Knuckles - Hot Crater Act 2",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+          {
+						"name": "Amy - Hot Crater Act 2",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map":"Zone Select",
+            "x": 57,
+            "y": 76
+          }
+        ]
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "Music Plant",
+    "access_rules": "mp",
+    "children": [
+      {
+        "name": "Act 1",
+        "sections": [
+          {
+						"name": "Sonic - Music Plant Act 1",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+          {
+						"name": "Cream - Music Plant Act 1",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+          {
+						"name": "Tails - Music Plant Act 1",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+          {
+						"name": "Knuckles - Music Plant Act 1",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+          {
+						"name": "Amy - Music Plant Act 1",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map":"Zone Select",
+            "x": 76,
+            "y": 114
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "sections": [
+          					{
+						"name": "Sonic - Music Plant Act 2",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Music Plant Act 2",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Music Plant Act 2",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Music Plant Act 2",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Music Plant Act 2",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map":"Zone Select",
+            "x": 92,
+            "y": 114
+          }
+        ]
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "Ice Paradise",
+    "access_rules": "ip",
+    "children": [
+      {
+        "name": "Act 1",
+        "sections": [
+					{
+						"name": "Sonic - Ice Paradise Act 1",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Ice Paradise Act 1",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Ice Paradise Act 1",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Ice Paradise Act 1",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Ice Paradise Act 1",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 98,
+            "y": 66
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "sections": [
+					{
+						"name": "Sonic - Ice Paradise Act 2",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Ice Paradise Act 2",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Ice Paradise Act 2",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Ice Paradise Act 2",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Ice Paradise Act 2",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 114,
+            "y": 66
+          }
+        ]
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "Sky Canyon",
+    "access_rules": "sc",
+    "children": [
+      {
+        "name": "Act 1",
+        "sections": [
+					{
+						"name": "Sonic - Sky Canyon Act 1",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Sky Canyon Act 1",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Sky Canyon Act 1",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Sky Canyon Act 1",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Sky Canyon Act 1",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 147,
+            "y": 77
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "sections": [
+					{
+						"name": "Sonic - Sky Canyon Act 2",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Sky Canyon Act 2",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Sky Canyon Act 2",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Sky Canyon Act 2",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Sky Canyon Act 2",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 163,
+            "y": 77
+          }
+        ]
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "Techno Base",
+    "access_rules": "tb",
+    "children": [
+      {
+        "name": "Act 1",
+        "sections": [
+					{
+						"name": "Sonic - Techno Base Act 1",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Techno Base Act 1",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Techno Base Act 1",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Techno Base Act 1",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Techno Base Act 1",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 205,
+            "y": 97
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "sections": [
+          					{
+						"name": "Sonic - Techno Base Act 2",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Techno Base Act 2",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Techno Base Act 2",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Techno Base Act 2",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Techno Base Act 2",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 221,
+            "y": 97
+          }
+        ]
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "Egg Utopia",
+    "access_rules": "eu",
+    "children": [
+      {
+        "name": "Act 1",
+        "sections": [
+					{
+						"name": "Sonic - Egg Utopia Act 1",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Egg Utopia Act 1",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Egg Utopia Act 1",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Egg Utopia Act 1",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Egg Utopia Act 1",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 285,
+            "y": 77
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "sections": [
+          {
+						"name": "Sonic - Egg Utopia Act 2",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Egg Utopia Act 2",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Egg Utopia Act 2",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Egg Utopia Act 2",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Egg Utopia Act 2",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 301,
+            "y": 77
           }
         ]
       }
