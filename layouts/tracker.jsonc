@@ -28,20 +28,11 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "Zone Select",
               "content": {
                 "type": "map",
                 "maps": [
-                  "map1"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
+                  "Zone Select"
                 ]
               }
             }
@@ -79,20 +70,11 @@
           "type": "tabbed",
           "tabs": [
             {
-              "title": "Map 1",
+              "title": "Zone Select",
               "content": {
                 "type": "map",
                 "maps": [
-                  "map1"
-                ]
-              }
-            },
-            {
-              "title": "Map 2",
-              "content": {
-                "type": "map",
-                "maps": [
-                  "map2"
+                  "Zone Select"
                 ]
               }
             }

@@ -3,43 +3,43 @@
   {
     "name": "Red Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "red emerald"
   },
   {
     "name": "Blue Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "blue emerald"
   },
   {
     "name": "Yellow Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "yellow emerald"
   },
   {
     "name": "Green Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "green emerald"
   },
   {
     "name": "Cyan Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "cyan emerald"
   },
   {
     "name": "White Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "white emerald"
   },
   {
     "name": "Purple Chaos Emerald",
     "type": "toggle",
-    "img": "images/items/green_emerald.png",
+    "img": "images/items/emerald_green.png",
     "codes": "purple emerald"
   },
   {
@@ -71,5 +71,11 @@
     "type": "toggle",
     "img": "images/items/amy.png",
     "codes": "amy"
+  },
+  {
+    "name": "Leaf Forest",
+    "type": "toggle",
+    "img": "images/items/green_emerald.png",
+    "codes": "lf"
   }
 ]

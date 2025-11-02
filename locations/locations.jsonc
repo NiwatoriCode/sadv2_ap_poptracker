@@ -1,57 +1,84 @@
 [
   {
-    "name": "Example Parent",
+    "name": "Leaf Forest",
+    "access_rules": [ "lf" ],
     "children": [
       {
-        "name": "Example Location 1",
-        "access_rules": [
-          //read as: progressive_2 or toggle
-          "progressive_2",
-          "toggle"
-        ],
+        "name": "Act 1",
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Sonic - Leaf Forest Act 1",
+            "access_rules": "sonic",
             "item_count": 1
           },
           {
-            "name": "Example Section 2",
-            "item_count": 3
+            "name": "Cream - Leaf Forest Act 1",
+            "access_rules": "cream",
+            "item_count": 1
+          },
+          {
+            "name": "Tails - Leaf Forest Act 1",
+            "access_rules": "tails",
+            "item_count": 1
+          },
+          {
+            "name": "Knuckles - Leaf Forest Act 1",
+            "access_rules": "knuckles",
+            "item_count": 1
+          },
+          {
+            "name": "Amy - Leaf Forest Act 1",
+            "access_rules": "amy",
+            "item_count": 1
           }
         ],
         "map_locations": [
           {
-            "map": "map1",
-            "x": 1750,
-            "y": 700
-          },
-          {
-            "map": "map2",
-            "x": 1000,
-            "y": 500
+            "map": "Zone Select",
+            "x": 10,
+            "y": 106
           }
         ]
       },
       {
-        "name": "Example Location 2",
-        "access_rules": [
-          //read as: progressive_toggle_2 and has more than 4 consumable
-          "progressive_toggle_2, $has_more_then_n_consumable|4"
-        ],
+        "name": "Act 2",
         "sections": [
           {
-            "name": "Example Section 1",
+            "name": "Sonic - Leaf Forest Act 2",
+            "access_rules": "sonic",
+            "item_count": 1
+          },
+          {
+            "name": "Cream - Leaf Forest Act 2",
+            "access_rules": "cream",
+            "item_count": 1
+          },
+          {
+            "name": "Tails - Leaf Forest Act 2",
+            "access_rules": "tails",
+            "item_count": 1
+          },
+          {
+            "name": "Knuckles - Leaf Forest Act 2",
+            "access_rules": "knuckles",
+            "item_count": 1
+          },
+          {
+            "name": "Amy - Leaf Forest Act 2",
+            "access_rules": "amy",
             "item_count": 1
           }
         ],
         "map_locations": [
           {
             "map": "map1",
-            "x": 1500,
-            "y": 400
+            "x": 26,
+            "y": 106
           }
         ]
       }
-    ]
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
   }
 ]

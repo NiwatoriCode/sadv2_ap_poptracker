@@ -17,12 +17,23 @@
             "h_alignment": "left",
             "rows": [
               [
-                "toggle",
-                "progressive"
+                "red emerald",
+                "blue emerald",
+                "yellow emerald",
+                "green emerald",
+                "cyan emerald",
+                "white emerald",
+                "purple emerald"
               ],
               [
-                "consumable",
-                "progressive_toggle"
+                "sonic",
+                "cream",
+                "tails",
+                "knuckles",
+                "amy"
+              ],
+              [
+                "lf"
               ]
             ]
           }
