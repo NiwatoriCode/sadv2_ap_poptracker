@@ -113,5 +113,12 @@
     "type": "toggle",
     "img": "images/items/emerald_green.png",
     "codes": "eu"
+  },
+  {
+    "name": "XX Coordinates",
+    "type": "consumable",
+    "img": "images/items/emerald_green.png",
+    "codes": "xx",
+    "max_quantity": 75
   }
 ]

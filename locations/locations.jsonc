@@ -76,6 +76,43 @@
             "y": 106
           }
         ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Leaf Forest Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Leaf Forest Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Leaf Forest Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Leaf Forest Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Leaf Forest Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 18,
+            "y": 120
+          }
+        ]
       }
     ],
     "chest_unopened_img": "images/items/emerald_green.png",
@@ -156,6 +193,43 @@
             "map":"Zone Select",
             "x": 57,
             "y": 76
+          }
+        ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Hot Crater Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Hot Crater Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Hot Crater Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Hot Crater Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Hot Crater Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 49,
+            "y": 90
           }
         ]
       }
@@ -240,6 +314,43 @@
             "y": 114
           }
         ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Music Plant Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Music Plant Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Music Plant Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Music Plant Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Music Plant Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 84,
+            "y": 128
+          }
+        ]
       }
     ],
     "chest_unopened_img": "images/items/emerald_green.png",
@@ -320,6 +431,43 @@
             "map": "Zone Select",
             "x": 114,
             "y": 66
+          }
+        ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Ice Paradise Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Ice Paradise Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Ice Paradise Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Ice Paradise Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Ice Paradise Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 106,
+            "y": 80
           }
         ]
       }
@@ -404,6 +552,43 @@
             "y": 77
           }
         ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Sky Canyon Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Sky Canyon Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Sky Canyon Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Sky Canyon Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Sky Canyon Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 155,
+            "y": 91
+          }
+        ]
       }
     ],
     "chest_unopened_img": "images/items/emerald_green.png",
@@ -484,6 +669,43 @@
             "map": "Zone Select",
             "x": 221,
             "y": 97
+          }
+        ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Techno Base Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Techno Base Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Techno Base Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Techno Base Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Techno Base Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 213,
+            "y": 111
           }
         ]
       }
@@ -568,9 +790,107 @@
             "y": 77
           }
         ]
+      },
+      {
+        "name": "Boss Act",
+        "sections": [
+          {
+						"name": "Sonic - Egg Utopia Boss Act",
+						"access_rules": "sonic",
+						"item_count": 1
+					},
+					{
+						"name": "Cream - Egg Utopia Boss Act",
+						"access_rules": "cream",
+						"item_count": 1
+					},
+					{
+						"name": "Tails - Egg Utopia Boss Act",
+						"access_rules": "tails",
+						"item_count": 1
+					},
+					{
+						"name": "Knuckles - Egg Utopia Boss Act",
+						"access_rules": "knuckles",
+						"item_count": 1
+					},
+					{
+						"name": "Amy - Egg Utopia Boss Act",
+						"access_rules": "amy",
+						"item_count": 1
+					}
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 293,
+            "y": 91
+          }
+        ]
       }
     ],
     "chest_unopened_img": "images/items/emerald_green.png",
     "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "XX",
+    "access_rules": "xx:50",
+    "children": [
+      {
+        "name": "XX",
+        "sections": [
+          {
+            "name": "Sonic - XX",
+            "access_rules": "sonic",
+            "item_count": 1
+          },
+          {
+            "name": "Cream - XX",
+            "access_rules": "cream",
+            "item_count": 1
+          },
+          {
+            "name": "Tails - XX",
+            "access_rules": "tails",
+            "item_count": 1
+          },
+          {
+            "name": "Knuckles - XX",
+            "access_rules": "knuckles",
+            "item_count": 1
+          },
+          {
+            "name": "Amy - XX",
+            "access_rules": "amy",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 379,
+            "y": 99
+          }
+        ]
+      },
+      {
+        "name": "True Area 53",
+        "sections": [
+          {
+            "name": "Rescue Vanilla",
+            "access_rules": [ "sonic", "red emerald", "blue emerald", "yellow emerald", "green emerald", "cyan emerald",
+                              "white emerald", "purple emerald" ],
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Zone Select",
+            "x": 457,
+            "y": 87
+          }
+        ]
+      }
+    ]
   }
 ]

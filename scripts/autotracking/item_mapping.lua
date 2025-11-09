@@ -15,11 +15,12 @@ ITEM_MAPPING = {
 	[204] = { { "sc" } },
 	[205] = { { "tb" } },
 	[206] = { { "eu" } },
+	[207] = { { "xx" } },
 	[300] = { { "red emerald" } },
 	[301] = { { "blue emerald" } },
 	[302] = { { "yellow emerald" } },
 	[303] = { { "green emerald" } },
 	[304] = { { "cyan emerald" } },
 	[305] = { { "white emerald" } },
-	[306] = { { "purple emerald" } }
+	[306] = { { "purple emerald" } },
 }
