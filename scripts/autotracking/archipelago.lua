@@ -101,7 +101,9 @@ end
 
 -- apply everything needed from slot_data, called from onClear
 function apply_slot_data(slot_data)
-	-- put any code here that slot_data should affect (toggling setting items for example)
+	if slot_data["xx_coords"] then
+		Tracker:FindObjectForCode("xx_req").AcquiredCount = slot_data["xx_coords"]
+	end
 end
 
 -- called right after an AP slot is connected

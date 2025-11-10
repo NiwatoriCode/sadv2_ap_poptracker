@@ -13,3 +13,13 @@ function has_more_then_n_consumable(n)
     end
     return 0 -- 0 => no access
 end
+
+function xx_accessible()
+    req = Tracker:FindObjectForCode("xx_req").AcquiredCount
+    rec = Tracker:FindObjectForCode("xx").AcquiredCount
+
+    if rec >= req then
+        return true
+    end
+    return false
+end

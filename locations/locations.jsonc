@@ -834,7 +834,7 @@
   },
   {
     "name": "XX",
-    "access_rules": "xx:50",
+    "access_rules": "$xx_accessible",
     "children": [
       {
         "name": "XX",
@@ -872,7 +872,14 @@
             "y": 99
           }
         ]
-      },
+      }
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
+  },
+  {
+    "name": "True Area 53",
+    "children": [
       {
         "name": "True Area 53",
         "sections": [
@@ -891,6 +898,8 @@
           }
         ]
       }
-    ]
+    ],
+    "chest_unopened_img": "images/items/emerald_green.png",
+    "chest_opened_img": "images/items/emerald_unobtained.png"
   }
 ]
