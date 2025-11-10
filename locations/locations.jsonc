@@ -885,8 +885,7 @@
         "sections": [
           {
             "name": "Rescue Vanilla",
-            "access_rules": [ "sonic", "red emerald", "blue emerald", "yellow emerald", "green emerald", "cyan emerald",
-                              "white emerald", "purple emerald" ],
+            "access_rules": [ "sonic, red emerald, blue emerald, yellow emerald, green emerald, cyan emerald, white emerald, purple emerald" ],
             "item_count": 1
           }
         ],
