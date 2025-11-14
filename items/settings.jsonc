@@ -1,0 +1,10 @@
+[
+    {
+        "name": "XX Coordinates Required",
+        "type": "consumable",
+        "img": "",
+        "codes": "xx_req",
+        "max_quantity": 75,
+        "initial_quantity": 50
+    }
+]

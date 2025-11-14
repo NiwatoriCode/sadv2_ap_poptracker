@@ -1,0 +1,9 @@
+[
+  //more info: https://github.com/black-sliver/PopTracker/blob/master/doc/PACKS.md#maps
+  {
+    "name": "Zone Select",
+    "location_size": 10,
+    "location_border_thickness": 2,
+    "img": "images/maps/Zone Map.png"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "Sonic Advance 2 Poptracker",
+  "game_name": "Sonic Advamce 2",
+  "package_version": "0.1.0",
+  "package_uid": "sadv2",
+  "platform": "gba",
+  "author": "Niwatori",
+  "min_poptracker_version": "0.25.9",
+  "target_poptracker_version": "0.32.1",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}
